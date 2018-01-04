@@ -3,3 +3,4 @@ Solved assignments from the Machine Learning course led by professor Andrew Ng a
 
 Contain both mandatory and optional exercises.
 * machine-learning-ex1 - Multivariate linear regression
+* machine-learning-ex2 - (Regularized) logistic regression
