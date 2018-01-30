@@ -7,3 +7,4 @@ Contain both mandatory and optional exercises.
 * machine-learning-ex3 - Neural Networks - creation
 * machine-learning-ex4 - Back-propagation and self-learning NN
 * machine-learning-ex5 - Evaluating a learning algorithm - Bias/Variance trade-off
+* machine-learning-ex6 - Support Vector Machines (SVM) - optimization objective, kernels
